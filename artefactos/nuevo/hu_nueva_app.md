@@ -40,7 +40,6 @@ Como profesor, cuando evalúe a los alumnos durante o al finalizar el curso, qui
 
 **Criterios de aceptación:**
 - Se puede registrar y actualizar la nota para cada convocatoria.
-- Las calificaciones modificadas quedan registradas con un log de auditoría.
 - La funcionalidad está disponible para evaluaciones actuales y pasadas.
 
 ---
@@ -63,7 +62,6 @@ Como jefe de departamento, cuando observe que la información de un curso necesi
 **Criterios de aceptación:**
 - Los formularios validan todos los campos obligatorios.
 - Se permite la edición de cursos sin restricciones temporales.
-- Cada edición se confirma mediante notificaciones y se registra para auditoría.
 
 ---
 
